@@ -1,0 +1,1115 @@
+[ 2016-08-19T13:03:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:03:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:03:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:05:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-19T13:14:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-19T13:14:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/ind
+ERR: 非法操作:ind
+
+[ 2016-08-19T13:18:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/in
+ERR: 非法操作:in
+
+[ 2016-08-19T13:18:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/in
+ERR: 非法操作:in
+
+[ 2016-08-19T13:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-19T13:19:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-19T13:19:01+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-19T13:19:01+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-19T13:19:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-19T13:19:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/indx.html
+ERR: 非法操作:indx
+
+[ 2016-08-19T13:21:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/indx.html
+ERR: 非法操作:indx
+
+[ 2016-08-19T13:34:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:34:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:34:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:36:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: Think\Controller:_construct方法不存在！
+
+[ 2016-08-19T13:36:50+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha
+ERR: Think\Controller:_construct方法不存在！
+
+[ 2016-08-19T13:37:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: Think\Controller:_construct方法不存在！
+
+[ 2016-08-19T13:37:13+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha
+ERR: Think\Controller:_construct方法不存在！
+
+[ 2016-08-19T13:37:22+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha/t/0.54721558498285
+ERR: Think\Controller:_construct方法不存在！
+
+[ 2016-08-19T13:37:58+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+ERR: Think\Controller:_construct方法不存在！
+
+[ 2016-08-19T13:38:02+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+ERR: Think\Controller:_construct方法不存在！
+
+[ 2016-08-19T13:46:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:46:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:46:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:46:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-19T13:54:46+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001709s ]
+
+[ 2016-08-19T13:54:48+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001277s ]
+
+[ 2016-08-19T13:54:51+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001273s ]
+
+[ 2016-08-19T13:54:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001281s ]
+
+[ 2016-08-19T13:54:57+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2016-08-19T13:55:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001286s ]
+
+[ 2016-08-19T13:55:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001396s ]
+
+[ 2016-08-19T13:55:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001398s ]
+
+[ 2016-08-19T13:55:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001291s ]
+
+[ 2016-08-19T13:55:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001287s ]
+
+[ 2016-08-19T13:55:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001276s ]
+
+[ 2016-08-19T13:55:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002456s ]
+
+[ 2016-08-19T13:55:21+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0034s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2016-08-19T13:55:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001301s ]
+
+[ 2016-08-19T13:55:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2016-08-19T13:55:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002112s ]
+
+[ 2016-08-19T13:55:33+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002321s ]
+
+[ 2016-08-19T13:55:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0035s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001198s ]
+
+[ 2016-08-19T13:55:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002198s ]
+
+[ 2016-08-19T13:55:42+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002176s ]
+
+[ 2016-08-19T13:55:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0038s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001761s ]
+
+[ 2016-08-19T13:55:48+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002377s ]
+
+[ 2016-08-19T13:55:51+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002254s ]
+
+[ 2016-08-19T13:55:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002261s ]
+
+[ 2016-08-19T13:55:57+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001676s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002165s ]
+
+[ 2016-08-19T13:56:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002120s ]
+
+[ 2016-08-19T13:56:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0065s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002184s ]
+
+[ 2016-08-19T13:56:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002085s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002323s ]
+
+[ 2016-08-19T13:56:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002180s ]
+
+[ 2016-08-19T13:56:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002151s ]
+
+[ 2016-08-19T13:56:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0034s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001099s ]
+
+[ 2016-08-19T13:56:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001971s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002117s ]
+
+[ 2016-08-19T13:56:21+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002140s ]
+
+[ 2016-08-19T13:56:24+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002130s ]
+
+[ 2016-08-19T13:56:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002115s ]
+
+[ 2016-08-19T13:56:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002115s ]
+
+[ 2016-08-19T13:56:33+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002113s ]
+
+[ 2016-08-19T13:56:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001379s ]
+
+[ 2016-08-19T13:56:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001243s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002321s ]
+
+[ 2016-08-19T13:56:42+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002367s ]
+
+[ 2016-08-19T13:56:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001899s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002144s ]
+
+[ 2016-08-19T13:56:48+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002111s ]
+
+[ 2016-08-19T13:56:51+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002168s ]
+
+[ 2016-08-19T13:56:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002381s ]
+
+[ 2016-08-19T13:56:57+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002216s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002370s ]
+
+[ 2016-08-19T13:57:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002337s ]
+
+[ 2016-08-19T13:57:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002114s ]
+
+[ 2016-08-19T13:57:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002156s ]
+
+[ 2016-08-19T13:57:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002193s ]
+
+[ 2016-08-19T13:57:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001904s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002120s ]
+
+[ 2016-08-19T13:57:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002122s ]
+
+[ 2016-08-19T13:57:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2016-08-19T13:57:21+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001908s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002214s ]
+
+[ 2016-08-19T13:57:24+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002112s ]
+
+[ 2016-08-19T13:57:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002170s ]
+
+[ 2016-08-19T13:57:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002110s ]
+
+[ 2016-08-19T13:57:33+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001559s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002111s ]
+
+[ 2016-08-19T13:57:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002121s ]
+
+[ 2016-08-19T13:57:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002211s ]
+
+[ 2016-08-19T13:57:42+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002190s ]
+
+[ 2016-08-19T13:57:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002112s ]
+
+[ 2016-08-19T13:57:48+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001183s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002105s ]
+
+[ 2016-08-19T13:57:51+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002125s ]
+
+[ 2016-08-19T13:57:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002122s ]
+
+[ 2016-08-19T13:57:57+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2016-08-19T13:58:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0073s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002121s ]
+
+[ 2016-08-19T13:58:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002113s ]
+
+[ 2016-08-19T13:58:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002122s ]
+
+[ 2016-08-19T13:58:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002216s ]
+
+[ 2016-08-19T13:58:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002134s ]
+
+[ 2016-08-19T13:58:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002008s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002135s ]
+
+[ 2016-08-19T13:58:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+
+[ 2016-08-19T13:58:21+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002242s ]
+
+[ 2016-08-19T13:58:24+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002207s ]
+
+[ 2016-08-19T13:58:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002354s ]
+
+[ 2016-08-19T13:58:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002381s ]
+
+[ 2016-08-19T13:58:33+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002320s ]
+
+[ 2016-08-19T13:58:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002159s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002120s ]
+
+[ 2016-08-19T13:58:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002147s ]
+
+[ 2016-08-19T13:58:42+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002136s ]
+
+[ 2016-08-19T13:58:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002136s ]
+
+[ 2016-08-19T13:58:48+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002131s ]
+
+[ 2016-08-19T13:58:51+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002127s ]
+
+[ 2016-08-19T13:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002141s ]
+
+[ 2016-08-19T13:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002243s ]
+
+[ 2016-08-19T13:59:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0065s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002129s ]
+
+[ 2016-08-19T13:59:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002137s ]
+
+[ 2016-08-19T13:59:06+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002135s ]
+
+[ 2016-08-19T13:59:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002125s ]
+
+[ 2016-08-19T13:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002616s ]
+
+[ 2016-08-19T13:59:15+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002125s ]
+
+[ 2016-08-19T13:59:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002320s ]
+
+[ 2016-08-19T13:59:21+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002200s ]
+
+[ 2016-08-19T13:59:24+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002167s ]
+
+[ 2016-08-19T13:59:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002164s ]
+
+[ 2016-08-19T13:59:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2016-08-19T13:59:33+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002144s ]
+
+[ 2016-08-19T13:59:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002219s ]
+
+[ 2016-08-19T13:59:39+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002463s ]
+
+[ 2016-08-19T13:59:42+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002176s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002300s ]
+
+[ 2016-08-19T13:59:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002208s ]
+
+[ 2016-08-19T13:59:48+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `tp_email` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tp_email` WHERE ( isread = 0 and to_id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002245s ]
+
+[ 2016-08-19T13:59:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMsgCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+NOTIC: [8] Undefined index:  E:\mytestone\Application\Admin\Controller\CommonController.class.php 第 28 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given E:\mytestone\Application\Admin\Controller\CommonController.class.php 第 31 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, null given E:\mytestone\Application\Admin\Controller\CommonController.class.php 第 31 行.
+

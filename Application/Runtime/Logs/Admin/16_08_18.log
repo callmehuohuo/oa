@@ -1,0 +1,41 @@
+[ 2016-08-18T10:14:06+08:00 ] 127.0.0.1 /index.php/Admin/PubliC
+ERR: 无法加载控制器:PubliC
+
+[ 2016-08-18T10:14:10+08:00 ] 127.0.0.1 /index.php/Admin/Public/
+ERR: 非法操作:index
+
+[ 2016-08-18T10:14:17+08:00 ] 127.0.0.1 /index.php/Admin/Public/index
+ERR: 非法操作:index
+
+[ 2016-08-18T18:38:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-18T18:38:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-18T18:38:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-18T18:38:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-18T18:38:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/del/id/1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=> 1 and isread = 0 and from_id = 8 )' at line 1
+ [ SQL语句 ] : DELETE FROM `tp_email` WHERE ( id => 1 and isread = 0 and from_id = 8 )
+
+[ 2016-08-18T18:38:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-18T18:41:43+08:00 ] 127.0.0.1 /index.php/Admin/Email/del/id/1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=> 1 and isread = 0 and from_id = 8 )' at line 1
+ [ SQL语句 ] : DELETE FROM `tp_email` WHERE ( id => 1 and isread = 0 and from_id = 8 )
+
+[ 2016-08-18T19:01:22+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-18T20:27:00+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+
+[ 2016-08-18T20:27:03+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+ERR: 非法操作:recBox
+

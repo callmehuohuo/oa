@@ -1,0 +1,57 @@
+[ 2016-08-15T12:41:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-15T12:41:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-15T12:41:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:09:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:09:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:09:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:09:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:09:27+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-15T13:09:29+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2016-08-15T13:09:29+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-15T13:09:30+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 非法操作:add
+
+[ 2016-08-15T13:09:30+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-15T13:11:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:11:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:11:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:11:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-15T13:11:50+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 模板不存在:./Application/Admin/View/Knowledge/add.html
+
+[ 2016-08-15T13:11:54+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-15T13:11:59+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+ERR: 模板不存在:./Application/Admin/View/Knowledge/add.html
+

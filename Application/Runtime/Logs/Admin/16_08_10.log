@@ -1,0 +1,357 @@
+[ 2016-08-10T18:52:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add
+ERR: 模板不存在:./Application/Admin/View/Dept/add.html
+
+[ 2016-08-10T18:52:46+08:00 ] 127.0.0.1 /index.php/Admin/Dept/index
+ERR: 非法操作:index
+
+[ 2016-08-10T18:53:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:53:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:53:39+08:00 ] 127.0.0.1 /index.php/Admin/Index/Index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:54:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:55:00+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-10T18:55:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:55:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:55:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:56:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:56:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/Index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:59:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T18:59:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T19:01:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T19:01:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T19:02:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T19:02:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T19:02:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T19:02:46+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+ERR: 无法加载控制器:Index
+
+[ 2016-08-10T19:06:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+ERR: Think\Controller:　display方法不存在！
+
+[ 2016-08-10T19:07:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:07:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:07:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:07:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-mgt.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/WdatePicker.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:24+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-reg.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-mgt.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/WdatePicker.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-mgt.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/WdatePicker.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.pagination.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:13+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:17:13+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:14+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:14+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-reg.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:17:14+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:14+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:17:14+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:19:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-reg.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:19:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:32+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:38+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:19:38+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-reg.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:19:38+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:38+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:38+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:38+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:43+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-reg.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:19:43+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:43+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:19:43+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:43+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:43+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:19:43+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:21:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:21:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-reg.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:21:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:21:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T19:21:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:21:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:33:39+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:33:39+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:33:39+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T19:55:57+08:00 ] 127.0.0.1 /index.php/Admin/Dept/mo
+ERR: Think\Model:assign方法不存在！
+
+[ 2016-08-10T20:08:44+08:00 ] 127.0.0.1 /index.php/Admin/Dept/index
+ERR: 非法操作:index
+
+[ 2016-08-10T20:09:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T20:09:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T20:09:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T20:09:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

@@ -1,0 +1,240 @@
+[ 2016-08-12T12:22:42+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T12:23:48+08:00 ] 127.0.0.1 /index.php/Admin/Dept/home
+ERR: 非法操作:home
+
+[ 2016-08-12T12:23:55+08:00 ] 127.0.0.1 /index.php/Admin/Dept/index
+ERR: 非法操作:index
+
+[ 2016-08-12T12:24:08+08:00 ] 127.0.0.1 /index.php/Admin/Public/index
+ERR: 非法操作:index
+
+[ 2016-08-12T12:24:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/login
+ERR: 非法操作:login
+
+[ 2016-08-12T12:25:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T12:25:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T12:25:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T12:25:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T12:25:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2016-08-12T12:25:44+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T12:25:55+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:10:27+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:16:07+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:16:29+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:17:14+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:19:28+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:20:57+08:00 ] 127.0.0.1 /index.php/Admin/Public/check.html
+ERR: Think\Controller:　error方法不存在！
+
+[ 2016-08-12T13:20:57+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:21:19+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:21:27+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:21:47+08:00 ] 127.0.0.1 /index.php/Admin/Index%E3%80%81index
+ERR: 无法加载控制器:Index、index
+
+[ 2016-08-12T13:21:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T13:21:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T13:21:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T13:21:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T13:22:07+08:00 ] 127.0.0.1 /index.php/Admin/Public/index
+ERR: 非法操作:index
+
+[ 2016-08-12T13:22:24+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:23:13+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:23:21+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:23:40+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:25:25+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:28:20+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:29:46+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:34:48+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:42:25+08:00 ] 127.0.0.1 /index.php/Admin/Public/loin
+ERR: 非法操作:loin
+
+[ 2016-08-12T13:42:31+08:00 ] 127.0.0.1 /index.php/Admin/Public/login'
+ERR: 非法操作:login'
+
+[ 2016-08-12T13:42:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T13:42:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T13:42:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T13:43:18+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:43:22+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:45:07+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:45:20+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:49:36+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:51:01+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T13:51:06+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T14:00:45+08:00 ] 127.0.0.1 /index.php/Admin/Test/test21
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_dept` (`remark`) VALUES ('总裁部门')
+
+[ 2016-08-12T14:01:49+08:00 ] 127.0.0.1 /index.php/Admin/Test/test21
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_dept` () VALUES ()
+
+[ 2016-08-12T14:06:56+08:00 ] 127.0.0.1 /index.php/Admin/Test/test21
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_dept` () VALUES ()
+
+[ 2016-08-12T14:07:18+08:00 ] 127.0.0.1 /index.php/Admin/Test/test21
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_dept` () VALUES ()
+
+[ 2016-08-12T14:08:28+08:00 ] 127.0.0.1 /index.php/Admin/Test/test21
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_dept` () VALUES ()
+
+[ 2016-08-12T14:53:26+08:00 ] 127.0.0.1 /index.php/Admin/Test/test28
+ERR: 非法操作:test28
+
+[ 2016-08-12T15:50:01+08:00 ] 127.0.0.1 /index.php/Admin/Test/test41
+ERR: 1146:Table 'db_oa.tp_stu' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_stu`
+
+[ 2016-08-12T16:35:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:35:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:35:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:35:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:35:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2016-08-12T16:35:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:35:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:35:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:35:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:43:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:43:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:43:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:43:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:43:28+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2016-08-12T16:43:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:43:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:43:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:43:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:58:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:58:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:58:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:58:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-12T16:58:38+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: Think\Model:assign方法不存在！
+
+[ 2016-08-12T17:19:09+08:00 ] 127.0.0.1 /index.php/Admin/Dept/del/ids/9
+ERR: 非法操作:del
+
